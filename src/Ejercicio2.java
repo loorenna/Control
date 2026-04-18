@@ -3,5 +3,6 @@ public class Ejercicio2 {
         Producto p = new Producto();
         p.ingresarDatos();
         p.mostrarFactura();
+
     }
 }

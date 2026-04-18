@@ -19,5 +19,6 @@ public class Producto {
         System.out.println("Precio unitario: " + precio);
         System.out.println("Cantidad: " + cantidad);
         System.out.println("\nTotal a pagar: " + total);
+
     }
 }
